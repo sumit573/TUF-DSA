@@ -5,7 +5,7 @@
 | **Difficulty** | Basic |
 | **Topic** | DSA |
 | **Language** | Java |
-| **Solved On** | Sep 22, 2026, 2:46 AM |
+| **Solved On** | Sep 26, 2026, 12:20 PM |
 | **Problem Link** | [Open on TUF](https://takeuforward.org/practice/dsa/largest-element) |
 
 ## Solution
